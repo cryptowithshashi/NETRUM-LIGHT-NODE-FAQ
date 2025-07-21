@@ -80,7 +80,7 @@ sudo systemctl status netrum-node.service
 node /root/netrum-lite-node/src/system/sync/service.js
 ```
 
-**6. 6. How do I ensure I’m running the node from the correct directory?**
+**6. How do I ensure I’m running the node from the correct directory?**
 
 - Switch to root:
 
